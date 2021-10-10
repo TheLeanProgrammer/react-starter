@@ -4,11 +4,13 @@ Listing out some fundamental concepts in react for various workshops/hands-on co
 
 Check out my full React Tutorial
 
-1. [Project #1: Understanding the Basics](https://www.youtube.com/playlist?list=PLGyA74h_S9NqJvvQ7-l9bUHHS6bMCkgo0)
-2. [Project #2: Revisiting the Basics](https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY)
-3. [Project #3: Understanding Flexbox](https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY)
-4. [Project #4: React + TypeScript](https://www.youtube.com/playlist?list=PLGyA74h_S9NrjM7mUiSmpKfUntwEcgMB3)
-5. [Project #5: React Portals](https://www.youtube.com/playlist?list=PLGyA74h_S9Nq-rRLG5pqEiaJ87H22S3BW)
+| S.No   |      Topic      | Event/YouTube link | 
+|--------|-----------------|--------------------|
+| 1      | Understanding the Basics - JSX + State + Props | [https://www.youtube.com/playlist?list=PLGyA74h_S9NqJvvQ7-l9bUHHS6bMCkgo0](https://www.youtube.com/playlist?list=PLGyA74h_S9NqJvvQ7-l9bUHHS6bMCkgo0) |
+| 2      | Lifecycle Methods + Making Network Requests | [https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY](https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY) |
+| 3      | Understanding Flexbox | [https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY](https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY) |
+| 4      | React + TypeScript | [https://www.youtube.com/playlist?list=PLGyA74h_S9NrjM7mUiSmpKfUntwEcgMB3](https://www.youtube.com/playlist?list=PLGyA74h_S9NrjM7mUiSmpKfUntwEcgMB3) |
+| 5      | React Portals | [https://www.youtube.com/playlist?list=PLGyA74h_S9Nq-rRLG5pqEiaJ87H22S3BW](https://www.youtube.com/playlist?list=PLGyA74h_S9Nq-rRLG5pqEiaJ87H22S3BW) |
 
 ## Set up a new CRA
 
